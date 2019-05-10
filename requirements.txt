@@ -9,3 +9,4 @@ libvirt-python
 supervisor
 MySQL-python
 DBUtils
+libxml2-python3
